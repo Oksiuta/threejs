@@ -34,8 +34,5 @@ The ReactJS framework was used to create the website's frontend, implementing th
 **Deployment Configuration:** Configuring the deployment settings on Vercel was initially daunting, but the Vercel documentation provided clear guidelines for a successful deployment.
 ### 7.Conclusion:
 The Portfolio website successfully achieved its goals of showcasing a visually stunning and interactive experience, highlighting the web developer's skills and previous projects. The combination of ReactJS, ThreeJS, Framer Motion, and NodeJS allowed for a seamless and engaging user experience, while Figma served as an essential tool for designing the website. Deployment on Vercel made the website publicly accessible, enabling Utkarsh to reach a broader audience with their work and skills.
-
-Website Link: https://threejs-udogg.vercel.app/ Note: This website is not optimized for Search Engines yet as they do not crawl ReactJS websites.
-This is the GitHub link to the project: https://github.com/UDogg/threejs .
   
 
